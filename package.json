@@ -42,4 +42,7 @@
     "gradient-string": "latest",
     "@whiskeysockets/baileys": "^6.7.7"
   }
+  "engines": {
+  "node": "14.x" // O la versión que sea compatible con tu proyecto
+  }
 }

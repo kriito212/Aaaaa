@@ -15,7 +15,6 @@
     "child_process": "latest",
     "node-telegram-bot-api": "latest",
     "fs": "latest",
-    "hawk": "^6.0.0",
     "os": "latest",
     "hpack": "latest",
     "net": "latest",

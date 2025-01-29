@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "engines": {
-   "node": "14.x" // O la versión que sea compatible con tu proyecto
+   "node": "14.x"
     },
   "author": "Ridhz Ganz",
   "license": "ISC",
